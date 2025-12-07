@@ -9,6 +9,7 @@ for i in range(1, len(prices)):
   r = (curr_price - prev_price)/ prev_price
   returns.append(r)
 print(returns)
+print(len(prices))
 
 # returns with comprehension
 returns = [
