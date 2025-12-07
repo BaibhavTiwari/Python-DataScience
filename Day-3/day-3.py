@@ -21,3 +21,12 @@ elif pnl < 0:
   print("Negative")
 else:
   print("Break-even")
+
+# List comprehension = a compact way to build a list from another list with a pattern.
+# new_list = [ expression for item in old_list]
+
+pnl = [102, -30, 60]
+squared = [x**2 for x in pnl]
+print(squared)
+
+returns
