@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # 1. Setup and load data
-df = pd.read_csv("data.csv")
+df = pd.read_csv("data-6.csv")
 df["Date"] = pd.to_datetime(df["Date"])
 df = df.set_index("Date")
 print(df.head())
