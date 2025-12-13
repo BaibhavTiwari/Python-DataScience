@@ -43,3 +43,5 @@
 - **Average P&L**: Total P&L divided by number of trades, giving the mean profit or loss per trade.[4]
 - **Best trade**: Trade with the maximum P&L value (`max(pnl_list)`), the most profitable trade.[4]
 - **Worst trade**: Trade with the minimum P&L value (`min(pnl_list)`), the largest loss.[4]
+
+
