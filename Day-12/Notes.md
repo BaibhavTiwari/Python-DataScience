@@ -8,4 +8,4 @@
 
 - **Distribution of final prices**: The set of ending prices across all simulated paths, often visualized as a histogram, used to understand risk and potential outcomes at the horizon (e.g., 1 year).
 
-- **Empirical probability (from simulations)**: The fraction of simulated paths that satisfy a condition (such as final price above 120), interpreted as an estimate of the probability of that event under the chosen mode
+- **Empirical probability (from simulations)**: The fraction of simulated paths that satisfy a condition (such as final price above 120), interpreted as an estimate of the probability of that event under the chosen mode.
